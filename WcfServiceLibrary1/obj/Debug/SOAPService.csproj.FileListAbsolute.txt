@@ -1,0 +1,7 @@
+D:\wcf\WcfServiceLibrary1\WcfServiceLibrary1\bin\Debug\WcfServiceLibrary1.dll.config
+D:\wcf\WcfServiceLibrary1\WcfServiceLibrary1\bin\Debug\WcfServiceLibrary1.dll
+D:\wcf\WcfServiceLibrary1\WcfServiceLibrary1\bin\Debug\WcfServiceLibrary1.pdb
+D:\wcf\WcfServiceLibrary1\WcfServiceLibrary1\obj\Debug\SOAPService.csproj.AssemblyReference.cache
+D:\wcf\WcfServiceLibrary1\WcfServiceLibrary1\obj\Debug\SOAPService.csproj.CoreCompileInputs.cache
+D:\wcf\WcfServiceLibrary1\WcfServiceLibrary1\obj\Debug\WcfServiceLibrary1.dll
+D:\wcf\WcfServiceLibrary1\WcfServiceLibrary1\obj\Debug\WcfServiceLibrary1.pdb
